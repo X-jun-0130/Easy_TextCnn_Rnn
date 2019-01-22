@@ -8,13 +8,6 @@ import jieba
 
 
 def read_file(filename):
-    """
-    Args:
-        filename:trian_filename,test_filename,val_filename
-    Returns:
-        two list where the first is lables and the second is contents cut by jieba
-
-    """
     re_han = re.compile(u"([\u4E00-\u9FD5a-zA-Z0-9+#&\._%]+)")  # the method of cutting text by punctuation
     contents, labels = [], []
     with codecs.open(filename, 'r', encoding='utf-8') as f:
@@ -90,13 +83,6 @@ def get_wordid(filename):
 
 
 def read_category():
-    """
-    Args:
-        None
-    Returns:
-        categories: a list of label
-        cat_to_id: a dict of label to id
-    """
     categories = ['体育', '财经', '房产', '家居', '教育', '科技', '时尚', '时政', '游戏', '娱乐']
     cat_to_id = dict(zip(categories, range(len(categories))))
     return categories, cat_to_id
