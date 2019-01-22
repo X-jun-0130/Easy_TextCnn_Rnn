@@ -21,8 +21,26 @@ cnews.test.txt: 测试集(1000*10)
 
 
 # 1.利用TextCnn 进行文本分类
+## 模型参数
+parameters.py
 
+## 预处理
 预训练词向量进行embedding
+
+对句子分词，去标点符号
+
+去停用词
+
+文字转数字
+
+padding等
+
+程序在data_processing.py
+
+## 运行步骤
+Training.py 训练模型与模型在测试集结果
+
+predict.py 模型用来对文本分类预测
 
 网络结构与图片基本一致
 
