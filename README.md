@@ -20,6 +20,7 @@ cnews.test.txt: 测试集(1000*10)
 # 1.利用TextCnn 进行文本分类
 
 预训练词向量进行embedding
+
 网络结构与图片基本一致
 
 
