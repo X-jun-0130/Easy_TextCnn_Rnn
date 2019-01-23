@@ -40,7 +40,7 @@ padding等
 ## 运行步骤
 Training.py 
 
-![train and test result](Easy_TextCnn_Rnn/TextCnn/image/train.jpeg)
+![train and test result](https://github.com/NLPxiaoxu/Easy_TextCnn_Rnn/blob/master/TextCnn/image/train.jpeg)
 
 predict.py 模型用来对文本分类预测
 
