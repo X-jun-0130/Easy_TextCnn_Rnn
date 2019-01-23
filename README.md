@@ -1,5 +1,5 @@
 # Easy_TextCnn_Rnn
-tensorflow TxetCnn RNN
+tensorflow TxetCnn TextRNN 分别用Textcnn/Textrnn对中文文本分类
 
 ## 本文博客地址：
 https://www.jianshu.com/p/f95d472b13ea
