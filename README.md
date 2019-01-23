@@ -44,7 +44,7 @@ Training.py
 
 predict.py 模型用来对文本分类预测
 
-![evalutaing result](Easy_TextCnn_Rnn/TextCnn/image/evaluate.jpeg)
+![evalutaing result](https://github.com/NLPxiaoxu/Easy_TextCnn_Rnn/blob/master/TextCnn/image/evaluate.jpeg)
 
 验证结果表明，准确率达96.58%，随便取前10条语句的测试结果与原标签对比。
 
