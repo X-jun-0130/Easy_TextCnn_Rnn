@@ -38,7 +38,8 @@ padding等
 程序在data_processing.py
 
 ## 运行步骤
-Training.py 训练模型与模型在测试集结果
+Training.py 
+![训练模型与模型在测试集结果](Easy_TextCnn_Rnn/TextCnn/image/train.jpeg)
 
 predict.py 模型用来对文本分类预测
 
