@@ -39,9 +39,14 @@ padding等
 
 ## 运行步骤
 Training.py 
-![训练模型与模型在测试集结果](Easy_TextCnn_Rnn/TextCnn/image/train.jpeg)
+
+![train and test result](Easy_TextCnn_Rnn/TextCnn/image/train.jpeg)
 
 predict.py 模型用来对文本分类预测
+
+![evalutaing result](Easy_TextCnn_Rnn/TextCnn/image/evaluate.jpeg)
+
+验证结果表明，准确率达96.58%，随便取前10条语句的测试结果与原标签对比。
 
 网络结构与图片基本一致
 
