@@ -46,7 +46,7 @@ predict.py 模型用来对验证文本进行预测
 
 ![evalutaing result](https://github.com/NLPxiaoxu/Easy_TextCnn_Rnn/blob/master/TextCnn/image/evaluate.jpeg)
 
-验证结果表明，5000条文本准确率达96.58%，随便取前10条语句的测试结果与原标签对比。
+验证结果表明，5000条文本准确率达96.58%，取前10条语句的测试结果与原标签对比。
 
 网络结构与本文博客图片基本一致
 
