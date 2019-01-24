@@ -15,10 +15,7 @@ cnews.val.txt: 验证集(500*10)
 
 cnews.test.txt: 测试集(1000*10)
 
-数据集下载链接来源：https://github.com/cjymz886/text-cnn
-
-训练所用的数据，以及训练好的词向量可以下载：链接: https://pan.baidu.com/s/1gka7SgYIRijSaXgRfYZzwA ，密码: mmbk
-
+训练所用的数据，以及训练好的词向量可以下载：链接: https://pan.baidu.com/s/1daGvDO4UBE5NVrcLaCGeqA 提取码: 9x3i 
 
 # 1.利用TextCnn 进行文本分类
 ## 模型参数
