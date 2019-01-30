@@ -1,8 +1,9 @@
 # Easy_TextCnn_Rnn
-tensorflow TxetCnn TextRNN 分别用Textcnn/Textrnn对中文文本分类
+tensorflow TxetCnn TextRNN 预训练词向量 分别用Textcnn/Textrnn对中文文本分类
 
 ## 本文博客地址：
 [Text_Cnn](https://www.jianshu.com/p/f95d472b13ea)
+
 [Text_Rnn](https://www.jianshu.com/p/cd9563a3f6c9)
 
 # 数据集：
