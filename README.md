@@ -49,11 +49,9 @@ predict.py 模型用来对验证文本进行预测
 
 
 
-
-
 # 2.利用RNN进行文本分类
 
-# 1.利用TextCnn 进行文本分类
+# 1.利用双层RNN进行文本分类
 ## 模型参数
 parameters_rnn.py
 
@@ -75,11 +73,11 @@ padding
 ## 运行步骤
 Training.py 
 
-![train and test result](https://github.com/NLPxiaoxu/Easy_TextCnn_Rnn/blob/master/TextCnn/image/train.jpeg)
+![train and test result](https://github.com/NLPxiaoxu/Easy_TextCnn_Rnn/blob/master/TextRnn/image/train.jpg)
 
 predict.py 模型用来对验证文本进行预测
 
-![evalutaing result](https://github.com/NLPxiaoxu/Easy_TextCnn_Rnn/blob/master/TextCnn/image/evaluate.jpeg)
+![evalutaing result](https://github.com/NLPxiaoxu/Easy_TextCnn_Rnn/blob/master/TextRnn/image/predict.jpg)
 
 验证结果表明，5000条文本准确率达96.7%，取前10条语句的测试结果与原标签对比。
 
