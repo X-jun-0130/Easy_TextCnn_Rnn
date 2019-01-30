@@ -3,6 +3,7 @@ tensorflow TxetCnn TextRNN 分别用Textcnn/Textrnn对中文文本分类
 
 ## 本文博客地址：
 [Text_Cnn](https://www.jianshu.com/p/f95d472b13ea)
+[Text_Rnn](https://www.jianshu.com/p/cd9563a3f6c9)
 
 # 数据集：
 本实验是使用THUCNews的一个子集进行训练与测试，数据集请自行到THUCTC：一个高效的中文文本分类工具包下载，请遵循数据提供方的开源协议;
